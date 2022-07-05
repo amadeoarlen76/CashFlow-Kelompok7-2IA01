@@ -1,0 +1,8 @@
+<resources>
+    <string name="label_app">Cash Flow</string>
+    <string name="label_activity_home">Beranda</string>
+    <string name="label_activity_add">Tambah</string>
+    <string name="label_activity_edit">Ubah</string>
+    <string name="label_activity_filter">Filter</string>
+    <string name="action_filter">Filter</string>
+</resources>
