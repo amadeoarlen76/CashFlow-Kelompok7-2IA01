@@ -11,5 +11,9 @@ Kami, Kelompok 7 dari kelas 2IA01, yang terdiri dari:
   
   Akhir Kata, Kami Mengucapkan Terima Kasih.
   
+  SYSTEM REQUIREMENT
+  API 25 or higher
   
+  
+  INSTALLATION
  
