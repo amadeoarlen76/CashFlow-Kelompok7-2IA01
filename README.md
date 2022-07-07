@@ -16,8 +16,11 @@ Kami, Kelompok 7 dari kelas 2IA01, yang terdiri dari:
   - [Android Studio Chipmunk | 2021.2.1 Patch 1 Build #AI-212.5712.43.2112.8609683, built on May 18, 2022]
   - [Runtime version: 11.0.12+7-b1504.28-7817840 amd64]
   - [VM: OpenJDK 64-Bit Server VM by Oracle Corporation]
+  - [java version (JRE VERSION): "18.0.1.1" 2022-04-22]
+  - [javac 18.0.1.1]
   - [Windows 10 10.0 (Kami Menggunakan Windows 10)]
   - [GC: G1 Young Generation, G1 Old Generation]
   
   ## INSTALLATION
+   - [javac 18.0.1.1]
  
