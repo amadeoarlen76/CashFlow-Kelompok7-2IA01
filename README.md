@@ -22,8 +22,8 @@ Pastikan Android Studio dan Git sudah ter-install sebelum memulai langkah instal
 [Swifter-n/CashFlow](https://github.com/Swifter-n/CashFlow)
 
 ## MODIFIED BY
-    - [Amadeo Arlen M]
-    - [Ary Prianes]
-    - [Kahfianka Haikal Kusnadi]
-    - [Nikolaus Georgi]
-    - [Jossia Elang Abraham]
+   - [Amadeo Arlen M]
+   - [Ary Prianes]
+   - [Kahfianka Haikal Kusnadi]
+   - [Nikolaus Georgi]
+   - [Jossia Elang Abraham]
