@@ -1,26 +1,30 @@
 # CashFlow-Kelompok7-2IA01
-Kami, Kelompok 7 dari kelas 2IA01, yang terdiri dari:
+ 
+ ## SYSTEM REQUIREMENT
+  - [API 25 or higher (Android Nougat : 7.1.0 – 7.1.2 or higher)]
+  - [Android Studio Chipmunk | 2021.2.1 Patch 1]
+  - [Gradle JDK 11 or higher]
+  - [AGP 7.2.1]
+  - [Gradle 7.3.3]
+  
+  ## INSTALLATION
+Pastikan Android Studio dan Git sudah ter-install sebelum memulai langkah instalasi.
+1. Buka Android Studio
+2. Di jendela Welcome to Android Studio, klik Get from VCS.
+3. Pilih Git pada Version control, kemudian masukkan [clone URL](https://github.com/amadeoarlen76/CashFlow-Kelompok7-2IA01.git) di input URL.
+4. Klik Clone.
+5. Tunggu sampai proses cloning dan sinkronisasi Gradle selesai, kemudian Run.
+ 
+   #PREVIEW
+   ![Cash-Flow](https://drive.google.com/uc?export=view&id=1Ca5ebbKKG49NizzLG4yZ2Nk_oppTUfn_)
+   
+   ##CREDIT
+   [Swifter-n/CashFlow](https://github.com/Swifter-n/CashFlow)
+   
+   ##MODIFIED BY
+   Kelompok 7 2IA01
       Amadeo Arlen M
       Ary Prianes
       Kahfianka Haikal Kusnadi
       Nikolaus Georgi
       Jossia Elang Abraham
-  Membuat sebuah aplikasi berdasarkan source code yang sebelum kami temukan online, kemudian kami lakukan pemodifan baik secara isi, tampilan, serta bahasa agar lebih mudah dipahami
-  kami juga telah mengecek kembali program ini dan sejauh ini tidak ditemukan bug ataupun masalah lainnya. Namun apabila pembaca atau pengunjung menemukan masalah pada program kami ini, maka kami meminta masukkan anda agar segera kami perbaiki
-  Serta saran yang membangun untuk dijadikan masukkan bagi kami dalam menciptakan program program kami yang selanjutnya
-  
-  Akhir Kata, Kami Mengucapkan Terima Kasih.
-  
- ## SYSTEM REQUIREMENT
-  - [API 25 or higher (Android Nougat : 7.1.0 – 7.1.2 or higher)]
-  - [Android Studio Chipmunk | 2021.2.1 Patch 1 Build #AI-212.5712.43.2112.8609683, built on May 18, 2022]
-  - [Runtime version: 11.0.12+7-b1504.28-7817840 amd64]
-  - [VM: OpenJDK 64-Bit Server VM by Oracle Corporation]
-  - [java version (JRE VERSION): "18.0.1.1" 2022-04-22]
-  - [javac 18.0.1.1]
-  - [Windows 10 10.0 (Kami Menggunakan Windows 10)]
-  - [GC: G1 Young Generation, G1 Old Generation]
-  
-  ## INSTALLATION
-   - [javac 18.0.1.1]
- 
